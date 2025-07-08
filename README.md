@@ -1,10 +1,5 @@
 # Hi there, I'm Ali Yousefli 👋
 
-## AI Healthcare Innovator | MBA-MPH | Precision Medicine Entrepreneur
-
- Bridging the gap between cutting-edge AI technology and accessible healthcare solutions
-
-
 
 ## 🚀 About Me
 
