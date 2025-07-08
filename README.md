@@ -2,9 +2,9 @@
 
 ## AI Healthcare Innovator | MBA-MPH | Precision Medicine Entrepreneur
 
-> Bridging the gap between cutting-edge AI technology and accessible healthcare solutions
+ Bridging the gap between cutting-edge AI technology and accessible healthcare solutions
 
----
+
 
 ## 🚀 About Me
 
@@ -16,7 +16,6 @@ I'm a **healthcare AI scientist** and **entrepreneur** with a unique background 
 - 🌍 **Mission**: Democratizing healthcare through intelligent AI systems
 - 📍 **Location**: Available for remote collaboration worldwide
 
----
 
 ## 🔬 Current Projects
 
@@ -38,7 +37,6 @@ Advancing medical AI through specialized model optimization.
 - **QLoRA**: Optimized Llama 3.2 for medical diagnostics on MedQA dataset
 - **Edge AI**: Enabling AI-powered healthcare in areas with limited connectivity
 
----
 
 ## 💼 Professional Experience
 
@@ -57,7 +55,6 @@ Advancing medical AI through specialized model optimization.
 - Enhanced API isolation yield by 3.7% through innovative crystallization
 - Led end-to-end contract manufacturing projects
 
----
 
 ## 🛠️ Technical Skills
 
@@ -102,7 +99,6 @@ Tools:         SHAP, LIME, AIF360, Fairlearn (AI Explainability)
 - **Independent Study**: "Large Language Model Applications in Healthcare" (30-page research paper)
 - **Scientific Research**: In-vitro Assays of Snake Venom Metalloproteases (University of Manitoba)
 
----
 
 ## 🏆 Achievements & Recognition
 
@@ -112,7 +108,6 @@ Tools:         SHAP, LIME, AIF360, Fairlearn (AI Explainability)
 - 🚀 **Led cross-functional AI development teams**
 - 📊 **99% reduction in data processing time** through automation
 
----
 
 ## 🌟 What I'm Working On
 
@@ -121,7 +116,6 @@ Tools:         SHAP, LIME, AIF360, Fairlearn (AI Explainability)
 - 📱 **Building scalable healthcare applications** with modern tech stacks
 - 🤝 **Exploring partnerships** for AI healthcare commercialization
 
----
 
 ## 📫 Let's Connect
 
