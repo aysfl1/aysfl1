@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a **healthcare AI scientist** and **entrepreneur** with a unique background spanning precision medicine, business strategy, and advanced AI development. Currently developing AI-powered healthcare solutions that make quality medical care accessible to underserved communities worldwide.
+I'm a **healthcare AI scientist** with a unique background spanning precision medicine, business strategy, and advanced AI development. Currently developing AI-powered healthcare solutions that make quality medical care accessible to underserved communities worldwide.
 
 - 🎓 **MBA from Tuck School of Business** + **MPH from Geisel School of Medicine**
 - 🧬 **Former AI Scientist** at Molecular You (Precision Medicine Startup)
@@ -12,7 +12,7 @@ I'm a **healthcare AI scientist** and **entrepreneur** with a unique background 
 - 📍 **Location**: Available for remote collaboration worldwide
 
 
-## 🔬 Current Projects
+## 🔬 Projects
 
 ### 🏥 Dr. CaringAI - AI Medical Consultation Platform
 A self-service medical consultation web application providing AI-generated guidance for patients in underserved areas.
@@ -117,7 +117,6 @@ Tools:         SHAP, LIME, AIF360, Fairlearn (AI Explainability)
 - 💼 **Portfolio**: [ali-yousefli.com](https://ali-yousefli.com)
 - 📧 **Email**: Amirali.Yousefli.GR@Dartmouth.Edu
 - 💼 **LinkedIn**: [linkedin.com/in/aysf](https://linkedin.com/in/aysf)
-- 📱 **Phone**: +1(603)322-0705
 
 ---
 
